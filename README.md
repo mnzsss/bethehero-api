@@ -9,7 +9,7 @@ Become the hero for someone or ask for help - REST API made with Node.js
 
 🆘 About BeTheHero
 ------------------
-This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version (currently in development)**](https://github.com/mnzsss/bethehero-web) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/mnzsss/bethero-mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/mnzsss/bethehero-backend) made with Node.js
+This project is a software that allows organizations to ask for help and share their necessities. The software has a [**web version**](https://github.com/mnzsss/bethehero-web) made with ReactJS, where the organizations are able to create new incidents and manage them by deleting. The application also has a [**mobile version (currently in development)**](https://github.com/mnzsss/bethero-mobile) made with React Native, where anyone can access to know about the incidents and contact organizations to become a hero. All this software is served by a [**REST API**](https://github.com/mnzsss/bethehero-backend) made with Node.js
 
 :wrench: Used technologies:
 ----------------------
