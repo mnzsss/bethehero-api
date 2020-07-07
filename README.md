@@ -27,7 +27,7 @@ This RESTful API works with SQLite and to help me build the queries I used knex.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/mnzsss/bethehero-backend
+$ git clone https://github.com/mnzsss/bethehero-api
 
 # Go into the repository
 $ cd bethehero-api
